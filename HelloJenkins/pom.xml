@@ -9,8 +9,8 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   <artifactId>HelloJenkins</artifactId>
   <version>1.0-SNAPSHOT</version>
   <name>HelloJenkins</name>
-  http://www.example.com</url>
-  
+  <url>http://www.example.com</url>
+
   <properties>
     <project.build.sourceEncoding>UTF-8project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
